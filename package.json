@@ -1,0 +1,13 @@
+{
+  "name": "ems-esp-heatpump-energy-card",
+  "version": "1.0.0",
+  "description": "Home Assistant Lovelace card: energy, heat and performance factors of an EMS-ESP heat pump from long-term statistics",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node build.mjs --check",
+    "test": "node --test test/*.test.mjs"
+  }
+}

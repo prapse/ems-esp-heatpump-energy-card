@@ -10,6 +10,16 @@ extra helpers, template sensors or `utility_meter`s, and it never controls the h
 
 *Deutsche Kurzfassung weiter unten.*
 
+![History view: monthly energy consumed with outdoor, flow and hot water temperatures](https://raw.githubusercontent.com/prapse/ems-esp-heatpump-energy-card/main/docs/images/history.png)
+
+## Screenshots
+
+| Overview | Efficiency | Phone, dark theme |
+|---|---|---|
+| ![Overview: today's heat produced split into heat pump, backup heater and environment](https://raw.githubusercontent.com/prapse/ems-esp-heatpump-energy-card/main/docs/images/overview.png) | ![Efficiency: seasonal performance factor per calendar year](https://raw.githubusercontent.com/prapse/ems-esp-heatpump-energy-card/main/docs/images/efficiency.png) | ![History view on a phone in the dark theme](https://raw.githubusercontent.com/prapse/ems-esp-heatpump-energy-card/main/docs/images/mobile-dark.png) |
+
+Screenshots from the test installation (Buderus WLW186i, Home Assistant language set to English).
+
 ## Features
 
 - **Overview:** heat produced or energy consumed for today, this month, this year or the lifetime,

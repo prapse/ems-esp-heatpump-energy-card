@@ -157,7 +157,7 @@ function fmt(value, digits = 0, locale = "en") {
 // Reads only Home Assistant long-term statistics (recorder/statistics_during_period) and the
 // current states of the lifetime counters. It creates no entities and controls nothing.
 
-const VERSION = "1.0.0";
+const VERSION = "1.0.1";
 const TAG = "ems-esp-heatpump-energy-card";
 const COL = {
   wp: "#00a8b0", // electrical energy, heat pump

@@ -56,7 +56,7 @@ EMS heat pumps that expose the same counters should work, but have not been veri
 ### Manual
 
 1. Copy `dist/ems-esp-heatpump-energy-card.js` to `/config/www/`.
-2. Settings → Dashboards → ⋮ → *Resources* → add `/local/ems-esp-heatpump-energy-card.js?v=1.0.0`
+2. Settings → Dashboards → ⋮ → *Resources* → add `/local/ems-esp-heatpump-energy-card.js?v=1.0.1`
    as a *JavaScript module*. Increase `?v=` with every update, because browsers cache `/local/` files.
 
 ### Add the card

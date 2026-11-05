@@ -1,6 +1,6 @@
 {
   "name": "ems-esp-heatpump-energy-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Home Assistant Lovelace card: energy, heat and performance factors of an EMS-ESP heat pump from long-term statistics",
   "type": "module",
   "private": true,

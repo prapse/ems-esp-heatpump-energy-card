@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 – 2026-11-05
+
+- README: screenshots of all views and of the dark theme on a phone
+- HACS validation workflow (no change to the card itself)
+
 ## 1.0.0 – 2026-11-04
 
 First public release, derived from a private card (`wp-energie-card` 0.1.5) used on a

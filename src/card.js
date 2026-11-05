@@ -3,7 +3,7 @@
 // current states of the lifetime counters. It creates no entities and controls nothing.
 import { resolveEntities, bucketize, derive, sumDeltas, fmt } from "./model.js";
 
-const VERSION = "1.0.0";
+const VERSION = "1.0.1";
 const TAG = "ems-esp-heatpump-energy-card";
 const COL = {
   wp: "#00a8b0", // electrical energy, heat pump
